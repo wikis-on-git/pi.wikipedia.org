@@ -10,115 +10,53 @@ Tuvampi imasmi&#7747; saddakose vatth&#363;ni likheyya! <p>Api ca kho sabbe vatt
 |}
 
 
-<div style="width:85%; padding:10px; background-color:#ffffcc; border:1px solid #ffff66;">
-
-'''Other wikis'''
-<small> [http://sep11.wikipedia.org September 11 memorial wiki/Wiki memoriale des 11 Septembrem] | [http://meta.wikipedia.org Meta-Wikipedia/Meta-Vicipaedia] | [http://wiktionary.org Wikitonary/Victionaria] | [http://wikibooks.org Wikibooks/Vicilibraria] | [http://wikiquote.org Wikiquote/Viciquotas] | [http://wikisource.org Wikisource] | [http://wikitravel.org Wikitravel] </small>
-</div>
-
-[[aa:]]
-[[af:]]
-[[als:]]
-[[ar:]]
-[[de:]]
-[[en:]]
-[[as:]]
-[[ast:]] <!-- missing WikiMedia 1.3 support -->
-[[ay:]]
-[[az:]]
-[[be:]]
-[[bg:]]
-[[bn:]]
-[[bo:]]
-[[bs:]]
-[[cs:]]
-[[co:]]
-[[cs:]]
-[[cy:]]
-[[da:]]
-[[el:]]
-[[eo:]]
-[[es:]]
-[[et:]]
-[[eu:]]
-[[fa:]]
-[[fi:]]
-[[fr:]]
-[[fy:]]
-[[ga:]]
-[[gl:]]
-[[gn:]]
-[[gu:]]
-[[he:]]
-[[hi:]]
-[[hr:]]
-[[hy:]]
-[[ia:]]
-[[id:]]
-[[is:]]
-[[it:]]
-[[ja:]]
-[[ka:]]
-[[kk:]]
-[[km:]]
-[[kn:]]
-[[ko:]]
-[[ks:]]
-[[ku:]]
-[[ky:]]
-[[la:]]
-[[ln:]] <!-- missing WikiMedia 1.3 support -->
-[[lo:]]
-[[lt:]]
-[[lv:]]
-[[hu:]]
-[[mi:]]
-[[mk:]]
-[[ml:]]
-[[mn:]]
-[[mr:]]
-[[ms:]]
-[[mt:]] <!-- missing WikiMedia 1.3 support -->
-[[my:]]
-[[na:]]
-[[nah:]]
-[[nds:]]
-[[ne:]]
-[[nl:]]
-[[no:]]
-[[oc:]]
-[[om:]]
-[[pa:]]
-[[pl:]]
-[[ps:]]
-[[pt:]]
-[[qu:]]
-[[ro:]]
-[[ru:]]
-[[sa:]]
-[[si:]]
-[[sk:]]
-[[sl:]]
-[[sq:]]
-[[sr:]]
-[[sv:]]
-[[sw:]]
-[[ta:]]
-[[te:]]
-[[tg:]]
-[[th:]]
-[[tk:]]
-[[tl:]]
-[[tr:]]
-[[tt:]]
-[[ug:]]
-[[uk:]]
-[[ur:]]
-[[uz:]]
-[[vi:]]
-[[vo:]]
-[[xh:]]
-[[yo:]]
-[[za:]]
-[[zh:]]
-[[zu:]]
+<!-- Please note that most of this content should be moved to external templates -->
+<table><tr><td colspan="2">
+{| id="vicipaedia" style="border: 1px solid #997; background-color: #EFE9AA; width: 100%; text-align: center; padding-top: 0.4em;"
+| http://bowks.net/wiki/la/vikipaedia.gif<br/><small>Super '''''duo milia''''' articulorum apud Vicipaediam Latinam!</small>
+|}
+</td></tr>
+<tr><td width="40%" valign="top">
+{| id="ave" style="border: 1px solid #DD5252; background-color: #FFF3F3;"
+|-
+! style="font-family: serif; background-color: #FDD; text-align: center; text-transform: uppercase; letter-spacing: 0.3em;" | '''Vicipaedia&middot;Latina'''
+|-
+| style="padding: 0.5em; margin: 0;" | Ave! Vicipaedia cooperandi opus est ut creatur Libera Encyclo&shy;paedia. Omnes ad partici&shy;pandum invitati sunt. Nunc sunt '''{{NUMBEROFARTICLES}}''' articuli.
+|}
+</td><td rowspan="3" valign="top">
+{| id="encyclopaedia" style="border: 1px solid #7AB67F; background-color: #F3FFF3; padding: 0em;" height="100%"
+! style="font-family: serif; background-color: #A8E8C0; text-align: center; text-transform: uppercase; letter-spacing: 0.3em;" | '''Encyclopaedia'''
+|-
+{{VicipaediaIndex}}
+|}
+</td></tr>
+<tr><td>
+{| id="pagina-mensis" style="border: 1px solid #26DBFB; background-color: #CEFAFF; padding: 0em;" width="100%" height="100%"
+! style="font-family: serif; background-color: #9FEFFD; text-align: center;" | '''Pagina Mensis'''
+|-
+| style="style="padding: 0.5em; margin: 0; vertical-align: top;" | <div>{{PaginaMensis}}</div>
+|}
+</td></tr>
+<tr><td>
+{| id="nexus" style="border: 1px solid #960; background-color: #FAF9EC;"
+! style="font-family: serif; background-color: #ECE5CA; text-align: center;" | '''Collaboratio et Coordinatio'''
+|-
+| style="padding: 0.5em; margin: 0;" | [[Wikipedia:Taberna|Vicipaedia Taberna]]<br/>[[Wikipedia:Auxilium pro editione (anglice)|Auxilium pro editione (anglice)]]<br/>[[Wikipedia:Auxilium pro editione (latine)|Auxilium pro editione (latine)]]
+|-
+! style="font-family: serif; background-color: #ECE5CA; text-align: center;" | '''Vincula'''
+|-
+| style="padding: 0.5em; margin: 0;" | [[Specialis:Allpages|Totae paginae]]<br/>[[Special:Recentchanges|Nova apud Vicipaediam]]<br>[[Specialis:Newpages|Paginae novae]]<br/>[[Pagina experimentalis]]
+|-
+! style="font-family: serif; background-color: #ECE5CA; text-align: center;" | '''Cave: numquam aliorum iura (©) frange!'''
+|-
+| style="padding: 0.5em; margin: 0;" | Adde quae scis, sed memento id quod addis modificari ameliorarique posse ab aliis utentibus.
+|}
+</td></tr>
+<tr><td colspan="2">
+{| id="linguis-aliis" style="border: 1px solid #96F; background-color: #F3F3FF;"
+! style="font-family: serif; background-color: #DDF; text-align: center;" | '''Vicipaediae in Linguis Aliis'''
+|-
+| style="padding: 0.5em; margin: 0;" | {{VicipaediaLing}}
+|}
+</td></tr></table>
+[[da:]] [[de:]] [[eo:]] [[es:]] [[fr:]] [[he:]] [[it:]] [[ja:]] [[nl:]] [[pl:]] [[pt:]] [[sv:]] [[zh:]]
