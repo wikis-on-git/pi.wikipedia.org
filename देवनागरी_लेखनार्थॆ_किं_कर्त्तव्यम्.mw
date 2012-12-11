@@ -116,11 +116,14 @@ __NOTOC__
 |+ '''Devanagari consonnant modifiers'''
 |-
 |style="font-size:150%;width:2em"| ़||style="width:6em"|J||style="width:20em"|nukta<br /> (after a consonnant, to modify it)<br /> e.g. in consonnants table above
-|rowspan="2" style="background:transparent;border-top:hidden;border-bottom:hidden"|&nbsp;&nbsp;&nbsp;
+|rowspan="3" style="background:transparent;border-top:hidden;border-bottom:hidden"|&nbsp;&nbsp;&nbsp;
 |style="font-size:150%;width:2em"| ्||style="width:6em"|^||style="width:20em"|virama<br />(forces a letter in its disjoined halant form)<br /> e.g. y^r^l^v^ gives य्‌र्‌ल्‌व्
 |-
 |style="font-size:150%;width:2em"| ||style="width:6em"| ||style="width:20em"|virama or halant<br />(normals conjuncts<br /> e.g. yrlv gives: य्र्ल्व्
 |style="font-size:150%;width:2em"| ||style="width:6em"|H||style="width:20em"|halant<br />(forces a letter in its joined half form)<br /> e.g. yHrHlHvH gives य्‍र्‍ल्‍व‍
+|-
+|style="font-size:150%;width:2em"| ॑||style="width:6em"|q||style="width:20em"|udaatta
+|style="font-size:150%;width:2em"| ॒||style="width:6em"|qq||style="width:20em"|anudaatta<br />(gemination)<br />e.g. gaqqbaqqjaqqddaqq (ggadjjadddabba) gives ॻॼॾॿ
 |}
 
 {|class="wikitable" style="background:transparent;border-spacing:0;text-align:center;line-height:1.6"
@@ -275,12 +278,6 @@ __NOTOC__
 
 {|class="wikitable" style="background:transparent;border-spacing:0;text-align:center;line-height:1.6"
 |+ '''Devanagari akshara modifiers (after consonnants+halants and dependent vowel, or after an independant vowel)'''
-|-
-|style="font-size:150%;width:2em"| ॑||style="width:6em"|q<br /> (udaatta)
-|style="font-size:150%;width:2em"| ॒||style="width:6em"|qq<br /> (anudaatta)
-|rowspan="2" style="background:transparent;border-top:hidden;border-bottom:hidden"|&nbsp;&nbsp;&nbsp;
-|style="font-size:150%;width:2em"|म॑||style="width:6em"|maq<br /> (udaatta)
-|style="font-size:150%;width:2em"|म॒||style="width:6em"|maqq<br /> (anudaatta)
 |-
 |style="font-size:150%;width:2em"| ॓||style="width:6em"|Q<br /> (grave)
 |style="font-size:150%;width:2em"| ॔||style="width:6em"|QQ<br /> (accute)
