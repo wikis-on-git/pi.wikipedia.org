@@ -1,11 +1,12 @@
 विकिपीडियायां [[देवनागरी]] टंकण निमित्तके बहूनि उपायानि। भवान् एतेषां मध्ये एकं उपायस्य प्रयोगं कर्तुं शक्नोति अथवा विकिपीडियायाः अन्तर्निर्मित टंकण प्रक्रियाया प्रयोगं कर्तुं शक्नोति। 
 
 __NOTOC__
-==विकिपीडिया इनपुट प्रणाली==
 [[पमुख पत्त Pamukha patta|पाली विकिपीडिय]] इति स्थले सम्पादनार्थे अन्तर्निर्मित सम्पादकमपि उपलभ्यते। इदं ध्वन्यात्मक लिप्यन्तरणमाधारितं अस्ति तस्य प्रयोगार्थॆ  देवनागरी लिप्यां 'क' लिखितुं 'ka' टंकणं करोतु। एष तालिकायाः सहयोगेन देवनागरी लिखितु सरलम्.
 
+== विकिपीडिया इनपुट प्रणाली ==
+
+=== Devanagari punctuation and symbols ===
 {|class="wikitable" style="background:transparent;border-spacing:0;text-align:center;line-height:1.6"
-|+ '''Devanagari punctuation and symbols'''
 |-
 |style="font-size:150%;width:2em"|ऽ||style="width:16em"|~<br /> (avagraha)
 |rowspan="2" style="background:transparent;border-top:hidden;border-bottom:hidden"|&nbsp;&nbsp;&nbsp;
@@ -18,8 +19,8 @@ __NOTOC__
 |colspan="2"|
 |}
 
+=== Devanagari digits ===
 {|class="wikitable" style="background:transparent;border-spacing:0;text-align:center;line-height:1.6"
-|+ '''Devanagari digits'''
 |-
 |style="font-size:150%;width:2em"|०||style="width:6em"|0
 |rowspan="2" style="background:transparent;border-top:hidden;border-bottom:hidden"|&nbsp;&nbsp;&nbsp;
@@ -38,8 +39,9 @@ __NOTOC__
 |style="font-size:150%;width:2em"|९||style="width:6em"|9
 |}
 
+=== Devanagari consonnants ===
 {|class="wikitable" style="background:transparent;border-spacing:0;text-align:center;line-height:1.6"
-|+ '''Devanagari consonnants (full forms, and half forms shown where available by appending an halant)'''
+|+ (full forms, and half forms shown where available by appending an halant)
 |-
 |style="font-size:150%;width:2em"|क||style="font-size:150%;width:2em"|क्‍||style="width:6em"|k(a)
 |rowspan="11" style="background:transparent;border-top:hidden;border-bottom:hidden"|
@@ -112,8 +114,8 @@ __NOTOC__
 |colspan="3"|
 |}
 
+=== Devanagari consonnant modifiers ===
 {|class="wikitable" style="background:transparent;border-spacing:0;text-align:center;line-height:1.6"
-|+ '''Devanagari consonnant modifiers'''
 |-
 |style="font-size:150%;width:2em"| ़||style="width:6em"|J||style="width:20em"|nukta<br /> (after a consonnant, to modify it)<br /> e.g. in consonnants table above
 |rowspan="3" style="background:transparent;border-top:hidden;border-bottom:hidden"|&nbsp;&nbsp;&nbsp;
@@ -126,8 +128,9 @@ __NOTOC__
 |style="font-size:150%;width:2em"| ॒||style="width:6em"|qq||style="width:20em"|anudaatta<br />(gemination)<br />e.g. gaqqbaqqjaqqddaqq (ggadjjadddabba) gives ॻॼॾॿ
 |}
 
+=== Examples of Devanagari consonants conjuncts ===
 {|class="wikitable" style="background:transparent;border-spacing:0;text-align:center;line-height:1.6"
-|+ '''Examples of Devanagari consonants conjuncts (full forms, halants distinguished for half forms)'''
+|+ (full forms, halants distinguished for half forms)
 |-
 |rowspan="2" style="font-size:150%;width:2em"|श ||rowspan="2" style="width:6em"|Sa
 |rowspan="2"|
@@ -190,8 +193,9 @@ __NOTOC__
 |style="font-size:150%;width:2em"|ज्ञ ||style="width:15em"|jnja
 |}
 
+=== Devanagari vowels ===
 {|class="wikitable" style="background:transparent;border-spacing:0;text-align:center;line-height:1.6"
-|+ '''Devanagari vowels''' (independant after a vowel or punctuation, dependant after a consonnant like 'm' here)
+|+ (independant after a vowel or punctuation, dependant after a consonnant like 'm' here)
 |-
 |colspan="2"|
 |rowspan="11" style="background:transparent;border-top:hidden;border-bottom:hidden"|
@@ -276,27 +280,25 @@ __NOTOC__
 |colspan="2"|
 |}
 
+=== Other Devanagari akshara modifiers ===
 {|class="wikitable" style="background:transparent;border-spacing:0;text-align:center;line-height:1.6"
-|+ '''Devanagari akshara modifiers (after consonnants+halants and dependent vowel, or after an independant vowel)'''
+|+ (after consonnants+halants and dependent vowel, or after an independant vowel)
 |-
-|style="font-size:150%;width:2em"| ॓||style="width:6em"|Q<br /> (grave)
-|style="font-size:150%;width:2em"| ॔||style="width:6em"|QQ<br /> (accute)
-|style="font-size:150%;width:2em"|म॓||style="width:6em"|maQ<br /> (grave)
-|style="font-size:150%;width:2em"|म॔||style="width:6em"|maQQ<br /> (accute)
+|style="font-size:150%;width:2em"| ॓||style="width:6em"|Q||style="width:20em"|(grave)
+|style="background:transparent;border-top:hidden;border-bottom:hidden"|&nbsp;&nbsp;&nbsp;
+|style="font-size:150%;width:2em"| ॔||style="width:6em"|QQ||style="width:20em"|(accute)
 |}
 
-===अफलाइन टाइपिंग औजार===
-* [http://sharma.shrish.googlepages.com/Hindi-Toolkit.exe देवनागरी टूलकिट ]
-* [http://bhashaindia.com/DownloadsV2/Category.aspx?ID=1 माइक्रोसफ्टको इण्डिक आइएमई] (फोनेटिक,  रेमिंगटन तथा  इनस्क्रिप्ट )
+== अफलाइन टाइपिंग औजार ==
+* [http://sharma.shrish.googlepages.com/Hindi-Toolkit.exe देवनागरी टूलकिट]
+* [http://bhashaindia.com/DownloadsV2/Category.aspx?ID=1 माइक्रोसफ्टको इण्डिक आइएमई] (फोनेटिक,  रेमिंगटन तथा  इनस्क्रिप्ट)
 * [https://addons.mozilla.org/en-US/firefox/addon/3972 इण्डिक इनपुट एक्सटेन्सन]  फायरफक्स  एक्सटेन्सन (फोनेटिक तथा इनस्क्रिप्ट)
 * [http://www.indiver.com/nepali.php इन्दीवरको देवनागरी सम्पादक]
 * [http://www.baraha.com/ बराह]
 * [http://www.var-x.com/gamabhana/ गमभन]
 * [http://www.nepalitransliteration.com/Default.aspx  देवनागरी लिप्यन्तरण]
 * [http://www.google.com/transliterate/Nepali  गूगल देवनागरी]
-
-‌‌TODO:
-[http://download.com.np/index.php?option=file&file=188 Romanized Nepali Keyboard from MPP now in Download.com.np]
+* [http://download.com.np/index.php?option=file&file=188 Romanized Nepali Keyboard from MPP now in Download.com.np]
 
 == Traditional Nepali Keyboard Layout == 
 TODO:
