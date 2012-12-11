@@ -1,87 +1,218 @@
 विकिपीडियायां [[देवनागरी]] टंकण निमित्तके बहूनि उपायानि। भवान् एतेषां मध्ये एकं उपायस्य प्रयोगं कर्तुं शक्नोति अथवा विकिपीडियायाः अन्तर्निर्मित टंकण प्रक्रियाया प्रयोगं कर्तुं शक्नोति। 
 
-==विकिपीडिया इनपुट प्रणाली==
-[[पमुख पत्त Pamukha patta|पाली विकिपीडिय]] इति स्थले सम्पादनार्थे अन्तर्निर्मित सम्पादकमपि उपलभ्यते। इदं ध्वन्यात्मक लिप्यन्तरणमाधारितं अस्ति तस्य प्रयोगार्थॆ  देवनागरी लिप्यां 'क' लिखितुं 'ka' टंकणं करोतु। एष तालिकायाः सहयोगेन देवनागरी लिखितु सरलम् -
- 
-{| border="1" cellpadding="2"
-|width="40"|अ||width="40"|आ||width="40"|इ||width="40"|ई||width="40"|उ||width="40"|ऊ||width="40"|ए||width="40"|ऐ||width="40"|ओ||width="40"|औ||width="40"|अं||width="40"|अः||width="40"|ऍ||width="40"|ऑ||width="40"|अँ||width="40"|आँ||width="40"|ऋ||width="40"|ॠ||width="40"|ॡ
-|-
-|a||aa/A||i||I/ee/ii||u||U/oo/uu||e||ai||o||au||aM||a:||E||O||aMM||aaMM||R||RU/Roo||Rl/Rlu
-|}
-
-<BR>
-
-{| border="1" cellpadding="2"
-|width="70"|क||width="70"|ख||width="70"|ग||width="70"|घ||width="70"|ङ
-|-
-|ka||kha||ga||gha||nga
-|-
-|च||छ||ज||झ||ञ
-|-
-|ca||Ch||ja||jha/za||nja
-|-
-|ट||ठ||ड||ढ||ण
-|-
-|Ta||Tha||Da||Dha||Na
-|-
-|त||थ||द||ध||न
-|-
-|ta||tha||da||dha||na
-|-
-|प||फ||ब||भ||म
-|-
-|pa||pha/fa||ba||bha||ma
-|-
-|य||र||ल||व||श
-|-
-|ya||ra||la||wa/va||Sa
-|-
-|ष||स||ह||ळ||क्ष
-|-
-|sha||sa||ha||La||xa/kSh
-|-
-|ज्ञ||ड़||ढ़||||
-|-
-|jnja||DDa||DDha||||
-|}
-<BR>
-{| border="1" cellpadding="2"
-|म्||width="50"|म||width="50"|मा||width="50"|मि||width="50"|मी||width="50"|मु||width="50"|मू||width="50"|मे||width="50"|मै||width="50"|मो||width="50"|मौ||width="50"|मं||width="50"|मः||width="50"|म्र||width="50"|
-|-
-|m^^||ma||maa||mi||mI/mee/mii||mu||mU/moo/muu||me||mai||mo||mau||maM||ma:||mra||
-|-
-|र्म||width="50"|मॅ||width="50"|मॉ||width="50"|मँ||width="50"|माँ||width="50"|मृ||||||||||||||||
-|-
-|rma||mE||mO||mMM||maMM||mR||||||||||||||||
-|}
-<BR>
-q : ॑ (udaatta) 
-qq : ॒ (anudaatta)
-Q : ॓ (grave)
-QQ : ॔ (accute)
-J : ़ (nukta)
-H:ः
-H:‌  Freezes a letter in its half form, eg-(य्‌र्‌ल्‌व्)
-
-----
-ॐ : AUm
-श्री : shrI,  shree 
-
-----
-अऽ : ~ (avagraha) 
-॰ : C  (abreviation) 
-। : Z (ardhacharana,khada danda)
-॥ : ZZ (poornacharan)
-
-----
-१२३४५६७८९०
-1234567890
 __NOTOC__
+==विकिपीडिया इनपुट प्रणाली==
+[[पमुख पत्त Pamukha patta|पाली विकिपीडिय]] इति स्थले सम्पादनार्थे अन्तर्निर्मित सम्पादकमपि उपलभ्यते। इदं ध्वन्यात्मक लिप्यन्तरणमाधारितं अस्ति तस्य प्रयोगार्थॆ  देवनागरी लिप्यां 'क' लिखितुं 'ka' टंकणं करोतु। एष तालिकायाः सहयोगेन देवनागरी लिखितु सरलम्.
 
+{|class="wikitable" style="background:transparent;border-spacing:0;text-align:center;line-height:1.6"
+|-
+|style="font-size:150%;width:2em"|ऽ||style="width:6em"|~||style="width:16em"|avagraha
+|rowspan="2" style="background:transparent;border-top:hidden;border-bottom:hidden"|
+|style="font-size:150%;width:2em"|।||style="width:6em"|Z||style="width:16em"|ardhacharana, khada danda
+|-
+|style="font-size:150%;width:2em"|॰||style="width:6em"|C||style="width:16em"|abbreviation mark
+|style="font-size:150%;width:2em"|॥||style="width:6em"|ZZ||style="width:16em"|poornacharan
+|}
 
+{|class="wikitable" style="background:transparent;border-spacing:0;text-align:center;line-height:1.6"
+|-
+|style="font-size:150%;width:2em"|०||style="width:6em"|0
+|rowspan="2" style="background:transparent;border-top:hidden;border-bottom:hidden"|
+|style="font-size:150%;width:2em"|२||style="width:6em"|2
+|rowspan="2" style="background:transparent;border-top:hidden;border-bottom:hidden"|
+|style="font-size:150%;width:2em"|४||style="width:6em"|4
+|rowspan="2" style="background:transparent;border-top:hidden;border-bottom:hidden"|
+|style="font-size:150%;width:2em"|६||style="width:6em"|6
+|rowspan="2" style="background:transparent;border-top:hidden;border-bottom:hidden"|
+|style="font-size:150%;width:2em"|८||style="width:6em"|8
+|-
+|style="font-size:150%;width:2em"|१||style="width:6em"|1
+|style="font-size:150%;width:2em"|३||style="width:6em"|3
+|style="font-size:150%;width:2em"|५||style="width:6em"|5
+|style="font-size:150%;width:2em"|७||style="width:6em"|7
+|style="font-size:150%;width:2em"|९||style="width:6em"|9
+|}
+
+{|class="wikitable" style="background:transparent;border-spacing:0;text-align:center;line-height:1.6"
+|-
+|style="font-size:150%;width:2em"| ़||style="width:6em"|J||style="width:16em"|nukta
+|rowspan="2" style="background:transparent;border-top:hidden;border-bottom:hidden"|
+|style="font-size:150%;width:2em"| ्||style="width:6em"|H||style="width:16em"|halanta/virama<br />freezes a letter in its half form, e.g. य्‌र्‌ल्‌व्
+|}
+
+{|class="wikitable" style="background:transparent;border-spacing:0;text-align:center;line-height:1.6"
+|-
+|colspan="2"|
+|rowspan="13" style="background:transparent;border-top:hidden;border-bottom:hidden"|
+|style="font-size:150%;width:2em"|ऄ||style="width:6em"|aH
+|rowspan="13" style="background:transparent;border-top:hidden;border-bottom:hidden"|
+|style="font-size:150%;width:2em"|ॐ||style="width:6em"|AUm/OM
+|rowspan="13" style="background:transparent;border-top:hidden;border-bottom:hidden"|&nbsp;&nbsp;&nbsp;
+|colspan="2"|
+|rowspan="13" style="background:transparent;border-top:hidden;border-bottom:hidden"|
+|style="font-size:150%;width:2em"|म्||style="width:6em"|mH<br /> (halant/virama)
+|rowspan="13" style="background:transparent;border-top:hidden;border-bottom:hidden"|
+|colspan="2"|
+|-
+|style="font-size:150%;width:2em"|अ||style="width:6em"|a
+|style="font-size:150%;width:2em"|अँ||style="width:6em"|aM
+|style="font-size:150%;width:2em"|अं||style="width:6em"|aMM
+|style="font-size:150%;width:2em"|म||style="width:6em"|ma
+|style="font-size:150%;width:2em"|मँ||style="width:6em"|maM<br /> (candrabindu)
+|style="font-size:150%;width:2em"|मं||style="width:6em"|maMM<br /> (anusvara)
+|-
+|style="font-size:150%;width:2em"|अः||style="width:6em"|a:
+|style="font-size:150%;width:2em"|आ||style="width:6em"|aa/A
+|style="font-size:150%;width:2em"|आँ||style="width:6em"|aaM/AM
+|style="font-size:150%;width:2em"|मः||style="width:6em"|ma:<br/> (visarga)
+|style="font-size:150%;width:2em"|मा||style="width:6em"|maa/mA
+|style="font-size:150%;width:2em"|माँ||style="width:6em"|maaM/mAM
+|-
+|style="font-size:150%;width:2em"|इ||style="width:6em"|i
+|style="font-size:150%;width:2em"|ई||style="width:6em"|I/ee/ii
+|colspan="2"|
+|style="font-size:150%;width:2em"|मि||style="width:6em"|mi
+|style="font-size:150%;width:2em"|मी||style="width:6em"|mI/mee/mii
+|colspan="2"|
+|-
+|style="font-size:150%;width:2em"|उ||style="width:6em"|u
+|style="font-size:150%;width:2em"|ऊ||style="width:6em"|U/oo/uu
+|colspan="2"|
+|style="font-size:150%;width:2em"|मु||style="width:6em"|mu
+|style="font-size:150%;width:2em"|मू||style="width:6em"|mU/moo/muu
+|colspan="2"|
+|-
+|style="font-size:150%;width:2em"|ऋ||style="width:6em"|R
+|style="font-size:150%;width:2em"|ऌ||style="width:6em"|L
+|colspan="2"|
+|style="font-size:150%;width:2em"|मृ||style="width:6em"|mR
+|style="font-size:150%;width:2em"|मॢ||style="width:6em"|mL
+|style="font-size:150%;width:2em"|म्र||style="width:6em"|mra
+|-
+|style="font-size:150%;width:2em"|ॠ||style="width:6em"|RR
+|style="font-size:150%;width:2em"|ॡ||style="width:6em"|LL
+|colspan="2"|
+|style="font-size:150%;width:2em"|मॄ||style="width:6em"|mRR
+|style="font-size:150%;width:2em"|मॣ||style="width:6em"|mLL
+|style="font-size:150%;width:2em"|र्म||style="width:6em"|rma
+|-
+|style="font-size:150%;width:2em"|ऍ||style="width:6em"|AI/E
+|style="font-size:150%;width:2em"|ऎ||style="width:6em"|eH
+|colspan="2"|
+|style="font-size:150%;width:2em"|मॅ||style="width:6em"|mAI/mE
+|style="font-size:150%;width:2em"|मॆ||style="width:6em"|meH
+|colspan="2"|
+|-
+|style="font-size:150%;width:2em"|ए||style="width:6em"|e
+|style="font-size:150%;width:2em"|ऐ||style="width:6em"|ai
+|colspan="2"|
+|style="font-size:150%;width:2em"|मे||style="width:6em"|me
+|style="font-size:150%;width:2em"|मै||style="width:6em"|mai
+|colspan="2"|
+|-
+|style="font-size:150%;width:2em"|ऑ||style="width:6em"|AU/O
+|style="font-size:150%;width:2em"|ऒ||style="width:6em"|oH
+|colspan="2"|
+|style="font-size:150%;width:2em"|मॉ||style="width:6em"|mAU/mO
+|style="font-size:150%;width:2em"|मॊ||style="width:6em"|moH
+|colspan="2"|
+|-
+|style="font-size:150%;width:2em"|ओ||style="width:6em"|o
+|style="font-size:150%;width:2em"|औ||style="width:6em"|au
+|colspan="2"|
+|style="font-size:150%;width:2em"|मो||style="width:6em"|mo
+|style="font-size:150%;width:2em"|मौ||style="width:6em"|mau
+|colspan="2"|
+|-
+|style="font-size:150%;width:2em"| ॑||style="width:6em"|q<br /> (udaatta)
+|style="font-size:150%;width:2em"| ॒||style="width:6em"|qq<br /> (anudaatta)
+|colspan="2"|
+|style="font-size:150%;width:2em"|म॑||style="width:6em"|maq<br /> (udaatta)
+|style="font-size:150%;width:2em"|म॒||style="width:6em"|maqq<br /> (anudaatta)
+|colspan="2"|
+|-
+|style="font-size:150%;width:2em"| ॓||style="width:6em"|Q<br /> (grave)
+|style="font-size:150%;width:2em"| ॔||style="width:6em"|QQ<br /> (accute)
+|colspan="2"|
+|style="font-size:150%;width:2em"|म॓||style="width:6em"|maQ<br /> (grave)
+|style="font-size:150%;width:2em"|म॔||style="width:6em"|maQQ<br /> (accute)
+|colspan="2"|
+|}
+
+{|class="wikitable" style="background:transparent;border-spacing:0;text-align:center;line-height:1.6"
+|-
+|style="font-size:150%;width:2em"|क||style="width:6em"|ka
+|rowspan="11" style="background:transparent;border-top:hidden;border-bottom:hidden"|
+|style="font-size:150%;width:2em"|ख||style="width:6em"|kha
+|rowspan="11" style="background:transparent;border-top:hidden;border-bottom:hidden"|
+|style="font-size:150%;width:2em"|ग||style="width:6em"|ga
+|rowspan="11" style="background:transparent;border-top:hidden;border-bottom:hidden"|
+|style="font-size:150%;width:2em"|घ||style="width:6em"|gha
+|rowspan="11" style="background:transparent;border-top:hidden;border-bottom:hidden"|
+|style="font-size:150%;width:2em"|ङ||style="width:6em"|nga
+|-
+|style="font-size:150%;width:2em"|क़||style="width:6em"|qa/kJa
+|style="font-size:150%;width:2em"|ख़||style="width:6em"|khha/khJa
+|style="font-size:150%;width:2em"|ग़||style="width:6em"|ghha/gJa
+|colspan="2"|
+|colspan="2"|
+|-
+|style="font-size:150%;width:2em"|च||style="width:6em"|ca
+|style="font-size:150%;width:2em"|छ||style="width:6em"|Cha
+|style="font-size:150%;width:2em"|ज||style="width:6em"|ja
+|style="font-size:150%;width:2em"|झ||style="width:6em"|jha/za
+|style="font-size:150%;width:2em"|ञ||style="width:6em"|nja
+|-
+|style="font-size:150%;width:2em"|क्ष||style="width:6em"|xa/kSha
+|colspan="2"|
+|style="font-size:150%;width:2em"|ज्ञ||style="width:6em"|jnja
+|colspan="2"|
+|colspan="2"|
+|-
+|style="font-size:150%;width:2em"|ट||style="width:6em"|Ta
+|style="font-size:150%;width:2em"|ठ||style="width:6em"|Tha
+|style="font-size:150%;width:2em"|ड||style="width:6em"|Da
+|style="font-size:150%;width:2em"|ढ||style="width:6em"|Dha
+|style="font-size:150%;width:2em"|ण||style="width:6em"|Na
+|-
+|colspan="2"|
+|colspan="2"|
+|style="font-size:150%;width:2em"|ड़||style="width:6em"|DDa
+|style="font-size:150%;width:2em"|ढ़||style="width:6em"|DDha
+|colspan="2"|
+|-
+|style="font-size:150%;width:2em"|त||style="width:6em"|ta
+|style="font-size:150%;width:2em"|थ||style="width:6em"|tha
+|style="font-size:150%;width:2em"|द||style="width:6em"|da
+|style="font-size:150%;width:2em"|ध||style="width:6em"|dha
+|style="font-size:150%;width:2em"|न||style="width:6em"|na
+|-
+|style="font-size:150%;width:2em"|प||style="width:6em"|pa
+|style="font-size:150%;width:2em"|फ||style="width:6em"|pha
+|style="font-size:150%;width:2em"|ब||style="width:6em"|ba
+|style="font-size:150%;width:2em"|भ||style="width:6em"|bha
+|style="font-size:150%;width:2em"|म||style="width:6em"|ma
+|-
+|style="font-size:150%;width:2em"|य||style="width:6em"|ya
+|style="font-size:150%;width:2em"|य़||style="width:6em"|yya/yJa
+|style="font-size:150%;width:2em"|व||style="width:6em"|wa/va
+|style="font-size:150%;width:2em"|ह||style="width:6em"|ha
+|colspan="2"|
+|-
+|style="font-size:150%;width:2em"|र||style="width:6em"|ra
+|style="font-size:150%;width:2em"|ढ़||style="width:6em"|rha
+|style="font-size:150%;width:2em"|ल||style="width:6em"|la
+|style="font-size:150%;width:2em"|ळ||style="width:6em"|La
+|colspan="2"|
+|-
+|style="font-size:150%;width:2em"|श||style="width:6em"|Sa
+|style="font-size:150%;width:2em"|ष||style="width:6em"|sha
+|style="font-size:150%;width:2em"|स||style="width:6em"|sa
+|style="font-size:150%;width:2em"|श्री||style="width:6em"|shrI/shree
+|colspan="2"|
+|}
 
 ===अफलाइन टाइपिंग औजार===
-
 * [http://sharma.shrish.googlepages.com/Hindi-Toolkit.exe देवनागरी टूलकिट ]
 * [http://bhashaindia.com/DownloadsV2/Category.aspx?ID=1 माइक्रोसफ्टको इण्डिक आइएमई] (फोनेटिक,  रेमिंगटन तथा  इनस्क्रिप्ट )
 * [https://addons.mozilla.org/en-US/firefox/addon/3972 इण्डिक इनपुट एक्सटेन्सन]  फायरफक्स  एक्सटेन्सन (फोनेटिक तथा इनस्क्रिप्ट)
@@ -90,10 +221,6 @@ __NOTOC__
 * [http://www.var-x.com/gamabhana/ गमभन]
 * [http://www.nepalitransliteration.com/Default.aspx  देवनागरी लिप्यन्तरण]
 * [http://www.google.com/transliterate/Nepali  गूगल देवनागरी]
-
-
-
-
 
 ‌‌TODO:
 [http://download.com.np/index.php?option=file&file=188 Romanized Nepali Keyboard from MPP now in Download.com.np]
