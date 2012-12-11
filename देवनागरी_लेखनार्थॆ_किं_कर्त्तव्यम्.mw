@@ -250,7 +250,7 @@ __NOTOC__
 |}
 
 {|class="wikitable" style="background:transparent;border-spacing:0;text-align:center;line-height:1.6"
-|+ '''Devanagari akshara modifiers (after consonnants, halants and vowels)'''
+|+ '''Devanagari akshara modifiers (after consonnants+halants and dependent vowel, or after an independant vowel)'''
 |-
 |style="font-size:150%;width:2em"| ॑||style="width:6em"|q<br /> (udaatta)
 |style="font-size:150%;width:2em"| ॒||style="width:6em"|qq<br /> (anudaatta)
