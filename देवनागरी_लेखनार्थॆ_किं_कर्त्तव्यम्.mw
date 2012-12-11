@@ -65,7 +65,7 @@ __NOTOC__
 |-
 |colspan="3"|
 |colspan="3"|
-|style="font-size:150%;width:2em"|ज्ञ||style="font-size:150%;width:2em"|क्‍||style="width:6em"|jnj(a)
+|style="font-size:150%;width:2em"|ज्ञ||style="font-size:150%;width:2em"|ज्ञ्‍||style="width:6em"|jnj(a)
 |style="font-size:150%;width:2em"|ज़||style="font-size:150%;width:2em"|ज़्‍||style="width:6em"|z(a)
 |colspan="3"|
 |-
@@ -127,8 +127,11 @@ __NOTOC__
 |+ '''Examples of Devanagari consonants conjuncts (full forms, halants distinguished for half forms)'''
 |-
 |rowspan="2" style="font-size:150%;width:2em"|श ||rowspan="2" style="width:6em"|Sa
+|rowspan="2"|
 |style="font-size:150%;width:2em"|शा ||style="width:15em"|Saa/SA
+|rowspan="2"|
 |style="font-size:150%;width:2em"|शि ||style="width:15em"|Si
+|rowspan="2"|
 |style="font-size:150%;width:2em"|शी ||style="width:15em"|See/SI
 |-
 |style="font-size:150%;width:2em"|श् ||style="width:15em"|S<br /> (unqualified halant)
@@ -136,8 +139,11 @@ __NOTOC__
 |style="font-size:150%;width:2em"|श्‍ ||style="width:15em"|SH<br /> (explicit halant for half form)
 |-
 |rowspan="2" style="font-size:150%;width:2em"|श्‌र ||rowspan="2" style="width:6em"|S^ra
+|rowspan="2"|
 |style="font-size:150%;width:2em"|श्‌रा ||style="width:15em"|S^raa/S^rA
+|rowspan="2"|
 |style="font-size:150%;width:2em"|श्‌रि ||style="width:15em"|S^ri
+|rowspan="2"|
 |style="font-size:150%;width:2em"|श्‌री ||style="width:15em"|S^ree/S^rI
 |-
 |style="font-size:150%;width:2em"|श्‌र् ||style="width:15em"|S^r
@@ -145,8 +151,11 @@ __NOTOC__
 |style="font-size:150%;width:2em"|श्‌र्‍ ||style="width:15em"|S^rH
 |-
 |rowspan="2" style="font-size:150%;width:2em"|श्‍र ||rowspan="2" style="width:6em"|SHra
+|rowspan="2"|
 |style="font-size:150%;width:2em"|श्‍रा ||style="width:15em"|SHraa/SHrA
+|rowspan="2"|
 |style="font-size:150%;width:2em"|श्‍रि ||style="width:15em"|SHri
+|rowspan="2"|
 |style="font-size:150%;width:2em"|श्‍री ||style="width:15em"|SHree/SHrI
 |-
 |style="font-size:150%;width:2em"|श्‍र् ||style="width:15em"|SHr
@@ -154,13 +163,28 @@ __NOTOC__
 |style="font-size:150%;width:2em"|श्‍र्‍ ||style="width:15em"|SHrH
 |-
 |rowspan="2" style="font-size:150%;width:2em"|श्र ||rowspan="2" style="width:6em"|Sra
+|rowspan="2"|
 |style="font-size:150%;width:2em"|श्रा ||style="width:15em"|Sraa/SrA
+|rowspan="2"|
 |style="font-size:150%;width:2em"|श्रि ||style="width:15em"|Sri
+|rowspan="2"|
 |style="font-size:150%;width:2em"|श्री ||style="width:15em"|Sree/SrI
 |-
 |style="font-size:150%;width:2em"|श्र् ||style="width:15em"|Sr
 |style="font-size:150%;width:2em"|श्र्‌ ||style="width:15em"|Sr^
 |style="font-size:150%;width:2em"|श्र्‍ ||style="width:15em"|SrH
+|-
+|rowspan="2" style="font-size:150%;width:2em"|ज ||rowspan="2" style="width:6em"|ja
+|rowspan="2"|
+|style="font-size:150%;width:2em"|ज् ||style="width:15em"|j
+|rowspan="2"|
+|style="font-size:150%;width:2em"|ज्‌ ||style="width:15em"|jH
+|rowspan="2"|
+|style="font-size:150%;width:2em"|ज्‍ ||style="width:15em"|j^
+|-
+|style="font-size:150%;width:2em"|ञ ||style="width:15em"|nja
+|style="font-size:150%;width:2em"|ज्ञ ||style="width:15em"|jnja
+|colspan="2"|
 |}
 
 {|class="wikitable" style="background:transparent;border-spacing:0;text-align:center;line-height:1.6"
