@@ -117,7 +117,10 @@ __NOTOC__
 |-
 |style="font-size:150%;width:2em"| ़||style="width:6em"|J||style="width:20em"|nukta<br /> (after a consonnant, to modify it,<br /> e.g. in consonnants table above)
 |rowspan="2" style="background:transparent;border-top:hidden;border-bottom:hidden"|&nbsp;&nbsp;&nbsp;
-|style="font-size:150%;width:2em"| ्||style="width:6em"|H||style="width:20em"|halant/virama<br />(forces a letter in its half form,<br /> e.g. य्‌र्‌ल्‌व्)
+|style="font-size:150%;width:2em"| ्||style="width:6em"|^||style="width:20em"|halant<br />(forces a letter in its disjoined halant form,<br /> e.g. य्‌ र्‌ ल्‌ व् )
+|-
+|style="font-size:150%;width:2em"| ||style="width:6em"| ||style="width:20em"|virama/halant<br />(normals conjuncts<br /> e.g. य्र्ल्व् )
+|style="font-size:150%;width:2em"| ||style="width:6em"|H||style="width:20em"|virama<br />(forces a letter in its joined half form,<br /> e.g. य्‍ र्‍ ल्‍ व‍ )
 |}
 
 {|class="wikitable" style="background:transparent;border-spacing:0;text-align:center;line-height:1.6"
