@@ -39,3 +39,38 @@ Regards,
 
 WCI 2016 Volunteers
 |}</div>
+
+==The visual editor will be enabled on this wiki in some days==
+''Hello again. Please excuse the English.  {{Int:Please-translate}}.  {{Int:Feedback-thanks-title}}''
+
+As per previous announcements earlier this year, '''[[:mw:VisualEditor/Portal|the visual editor]] ({{int:visualeditor}}) will be enabled at this Wikipedia in some days. It allows people to edit articles as if they were using a typical word processor. Here's a quick explanation of what is going to happen''': you can find a more detailed one, with pictures, at [[:mw:VisualEditor/Single_edit_tab|mediawiki.org]]. 
+
+[[File:VisualEditor and wikitext side-by-side.png|alt=Side by side screenshots, showing the visual appearance of both editing systems |center|frameless|757px]]
+
+;What's changing?
+:In the new system, you get a <u>single edit tab which follows your preferences</u>, and that therefore will launch the wikitext editor '''or''' the visual editor depending on which one you opened the last (''{{int:visualeditor-preference-tabs-remember-last}}''). <br> This applies to everyone who edited recently, including anonymous users.
+;How do I switch to the ''other'' editor then?
+:Buttons on the toolbars of both editors were added months ago so that you can switch from one to the other every time you want to, without losing your changes and without having to save first. <br>The button, located on the right side of the toolbar, looks like square brackets ('''<nowiki>[[ ]]</nowiki>''') in the visual editor, and like a pencil ([[File:Edit_icon.svg|20px]]) in the wikitext editor.
+
+;Are there other options available?
+:Yes. You can choose whether you want:
+* ''{{int:visualeditor-preference-tabs-prefer-ve}}'' (if you temporarily switch to the wikitext editor through the button on the toolbar, the system won't remember it; also, it only applies to namespaces where the visual editor is available).
+* ''{{int:visualeditor-preference-tabs-prefer-wt}}'' (if you temporarily switch to the visual editor through the button on the toolbar, the system won't remember it)
+* ''{{int:visualeditor-preference-tabs-multi-tab}}'' (a system in place at multiple wikis since 2013. You are familiar with this option if you have been using the visual editor here.)
+**''Please note: all the users will always have the opportunity to switch to the other editor via buttons on the toolbars, for occasional edits''.
+
+;How do I set my preference?
+*If you want to try or to stay in the new system: you don't need to do anything.
+*If you had explicitly disabled the visual editor in the past and want to keep it disabled: you don't need to do anything.
+*All the registered users have a dropdown menu in the [[Special:Preferences#mw-prefsection-editing|Editing tab of their Preferences]] ({{int:prefs-editing}} --> {{int:visualeditor-preference-tabs}}), where they can choose from. <u>This only needs to be done once</u>. Don't forget to save ;)
+**<small>Users with the visual editor disabled need to re-enable it if they're interested in accessing that menu!</small>
+*People who use the visual editor regularly will see a pop-up <u>(only once after the single edit tab system is introduced)</u>, and they can choose their favorite setting there. Of course, they can change their mind at any time just like the others, and pick a different setting from their Preferences.
+**Anonymous users who have used the visual editor recently will also be able to choose which editor they want to edit with.
+**''Reminder: all the users will always have the opportunity to switch to the other editor via buttons on the toolbars, for occasional edits''.
+
+;Final remarks
+*<mark>Please spread the word about this major change</mark> in any way that you deem appropriate for this community, by linking to this announcement elsewhere, putting up a site notice, etc. Please note it will affect all the registered users at first, and after some days it will reach logged-out contributors as well if no major technical issues have arisen. '''[[User:Eukesh|Eukesh]] ''': given your experience with this language and this community, I appreciate your support in making sure everyone here is aware of this change. Don't hesitate to ask questions, I'll be around for a while to help! 
+*Please do let us know about any anomalies you think you're experiencing, and do post any other feedback below. I'd like to thank everyone who works to make the transition easier for this community, and whoever will help me processing feedback in your language. 
+*You can learn more about optimizing the visual editor experience here by [[:mw:Help:VisualEditor/VE_as_the_main_editor|reading a guide on mediawiki.org]]. 
+
+Thank you! [[User:Elitre (WMF)|Elitre (WMF)]] ([[User talk:Elitre (WMF)|वार्ता]]) १२:५५, २४ अगस्त २०१६ (UTC)
