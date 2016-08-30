@@ -74,3 +74,24 @@ As per previous announcements earlier this year, '''[[:mw:VisualEditor/Portal|th
 *You can learn more about optimizing the visual editor experience here by [[:mw:Help:VisualEditor/VE_as_the_main_editor|reading a guide on mediawiki.org]]. 
 
 Thank you! [[User:Elitre (WMF)|Elitre (WMF)]] ([[User talk:Elitre (WMF)|वार्ता]]) १२:५५, २४ अगस्त २०१६ (UTC)
+
+== The visual editor is now active here==
+''Hello again. This message is only available in English at this time: {{Int:Please-translate}}.  {{Int:Feedback-thanks-title}}''
+<gallery mode="nolines" widths=300px>
+File:VisualEditor bi-directional switching pencil icon in wikitext.png|alt=The upper right corner of the wikitext editing toolbar, showing a pencil icon|thumb|In the wikitext editor, the pencil icon allows you to switch to the visual editor.
+File:VisualEditor toolbar Page options - Switch to wikitext - Save.png|alt=The toolbar in the visual editor, showing the square brackets icon next to the Publish button.|thumb|In the visual editor, the <nowiki>[[ ]]</nowiki> (square brackets) icon allows you to switch to the wikitext editor. ''Please note that the button will soon say {{int:Publishpage}} or {{int:Publishchanges}}, due to an unrelated change.''
+</gallery>
+
+As some of you have noticed, '''this Wikipedia now has [[:mw:VisualEditor/Portal|the visual editor]] ({{int:visualeditor}}) enabled for all registered users'''. The rollout to logged-out users will likely happen in a week or so. 
+
+<mark>For an '''explanation of how the editing system now works and how to choose/go back to your favorite setting, please see my previous announcement above'''.</mark> If you wish to '''change your editing system preferences now, this can be done from [[Special:Preferences#mw-prefsection-editing|this link to your Preferences]] --> {{int:prefs-editing}} --> {{int:visualeditor-preference-tabs}}'''. 
+
+All edits using the visual editor will be tagged with "{{Int:tag-visualeditor}}" in recent changes, watchlists, and page histories.  To access the [[:mw:Special:MyLanguage/Help:VisualEditor/User_guide|User Guide for the visual editor]], click on the "(?)" icon in its toolbar. 
+
+Please let us know if you find any problems.  You can report issues directly in [[phab:|Phabricator, the new bug tracking system]] or on at [[:mw:VisualEditor/Feedback]]; by all means, feel free to also [[:mw:User talk:Elitre (WMF)|ping or contact me directly]] if you prefer.  
+In case of emergency (like an unexpected bug causing widespread problems), please contact James Forrester, the product manager, at jforrester@wikimedia.org or on [[:m:IRC|IRC]] in the #mediawiki-visualeditor channel.
+
+Happy editing!
+Respectfully, [[:mw:User:Elitre (WMF)|Elitre (WMF)]] १९:१५, ३० अगस्त २०१६ (UTC)
+
+PS: Are you seeing interface messages that are not in this wiki's language? Please fix this by providing translations [https://translatewiki.net/w/i.php?title=Special:Translate&group=ext-visualeditor-0-all&filter=%21translated&action=translate here]. Translations may be also provided for the [[:mw:Help:VisualEditor/User_guide|user guide]]. Please contact me if you want guidance in contributing translations!
