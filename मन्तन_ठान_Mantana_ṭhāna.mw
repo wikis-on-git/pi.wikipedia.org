@@ -50,7 +50,7 @@ As per previous announcements earlier this year, '''[[:mw:VisualEditor/Portal|th
 ;What's changing?
 :In the new system, you get a <u>single edit tab which follows your preferences</u>, and that therefore will launch the wikitext editor '''or''' the visual editor depending on which one you opened the last (''{{int:visualeditor-preference-tabs-remember-last}}''). <br> This applies to everyone who edited recently, including anonymous users.
 ;How do I switch to the ''other'' editor then?
-:Buttons on the toolbars of both editors were added months ago so that you can switch from one to the other every time you want to, without losing your changes and without having to save first. <br>The button, located on the right side of the toolbar, looks like square brackets ('''<nowiki>[[ ]]</nowiki>''') in the visual editor, and like a pencil ([[File:Edit_icon.svg|20px]]) in the wikitext editor.
+:Buttons on the toolbars of both editors were added months ago so that you can switch from one to the other every time you want to, without losing your changes and without having to save first. <br>The button, located on the right side of the toolbar, looks like square brackets ('''<nowiki>[[ ]]</nowiki>''') in the visual editor, and like a pencil ([[File:OOjs UI icon edit-ltr.svg|20px]]) in the wikitext editor.
 
 ;Are there other options available?
 :Yes. You can choose whether you want:
